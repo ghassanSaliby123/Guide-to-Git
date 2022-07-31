@@ -11,4 +11,4 @@ After configuring the p4merge tool we can use `git difftool` instead if `git dif
 Get the commit ID through `git log` then `git diff <ID1> <ID2>` 
 - We can compare the last 2 commits `git diff HEAD HEAD^` since HEAD^ refers to last commit -1 
 ### Compare the local master branch with the remote repository
-`git diff main origin/main` since main is the local branch and origin/main is remote repository name/remote bbranch name
+`git diff main origin/main` since main is the local branch and origin/main is remote_repository_name/remote_branch_name
