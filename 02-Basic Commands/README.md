@@ -1,0 +1,13 @@
+This file conaints the vasic commands for: 
+- Creating a new repository
+- Initialize a new repository from an existing one
+- Cloning a remote repository
+- Editing the ~/.gitconfig file
+- Tracked files
+- Recursive add
+- Backing out changes
+- Git rename
+- Git delete 
+- Git log history 
+- Git alias
+- Adding .gitignore
