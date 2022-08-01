@@ -1,3 +1,10 @@
+## This section covers the following:
+- p4merge tool
+- Comparing
+- Branching and merging
+- Rebasing
+
+--------------------
 ### Install and configure p4merge tool
 After configuring the p4merge tool we can use `git difftool` instead if `git diff`
 ### Comparing the working directory with the staginng area
