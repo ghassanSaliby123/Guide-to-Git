@@ -42,5 +42,5 @@ Sometimes it leads to conflicts when we change the same file on different branch
 ### Rebasing
 For example, we do some changings on branch A and another changes on branch B, when we want to merge B to A, it simply write all the commits from B as one commit to A. With rebasing git rewrites all the commits from B to A. <br>
 `git rebase <target_branch>`
- 
+ ![1_K4anH9QzRcPqLCv-7HyiCQ](https://user-images.githubusercontent.com/93892538/182480421-b501a4e5-8634-41e7-8e84-f91b79544b2d.png)
 
