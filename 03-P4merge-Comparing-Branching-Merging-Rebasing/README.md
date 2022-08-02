@@ -36,6 +36,7 @@ If we make a change on a branch then switch to main branch and do another change
 Sometimes it leads to conflicts when we change the same file on different branches. Here we can use the mergetool to resolve the conflict. 
 `git merge <the_source_branch>` <br> 
 <b>Note: </b>.orig file is the original copy of the file saved by git.
+![02 Branch-1 kopiera](https://user-images.githubusercontent.com/93892538/182480334-aa615668-594c-4115-beeb-f15fbfcb23e2.png)
 
 ---------------------------
 ### Rebasing
