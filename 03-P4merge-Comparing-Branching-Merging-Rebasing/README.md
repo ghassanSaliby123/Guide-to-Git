@@ -46,4 +46,4 @@ For example, we do some changings on branch A and another changes on branch B, w
 
 ---------------------------
 ### Rebasing VS Merging
-
+![hkftpmgzz7ixtqaxldsw](https://user-images.githubusercontent.com/93892538/182480628-f3f75784-e6e8-4d03-8651-1a518d62fea2.jpeg)
