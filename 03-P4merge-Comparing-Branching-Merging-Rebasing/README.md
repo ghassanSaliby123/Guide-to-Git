@@ -21,7 +21,7 @@ Get the commit ID through `git log` then `git diff <ID1> <ID2>`
 `git diff main origin/main` since main is the local branch and origin/main is remote_repository_name/remote_branch_name
 
 -------------------------
-### Brnaching and merging
+### Branching and merging
 - Get the branches `git branch`
 - Get the local and the remote branches `git branch -a`
 - Create a new branch `git branch <branch_name>`
