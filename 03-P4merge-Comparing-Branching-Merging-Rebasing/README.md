@@ -44,3 +44,6 @@ For example, we do some changings on branch A and another changes on branch B, w
 `git rebase <target_branch>`
  ![1_K4anH9QzRcPqLCv-7HyiCQ](https://user-images.githubusercontent.com/93892538/182480421-b501a4e5-8634-41e7-8e84-f91b79544b2d.png)
 
+---------------------------
+### Rebasing VS Merging
+
