@@ -34,5 +34,11 @@ Merge will default do a fast forward merge which literally move your main branc
 If we make a change on a branch then switch to main branch and do another changes before doing the merge. The merge here will be called an automatic merge.
 Sometimes it leads to conflicts when we change the same file on different branches. Here we can use the mergetool to resolve the conflict. 
 `git merge <the_source_branch>` <br> 
-<b>Note: </b>.orig file is the original copy of the file saved by git Rebasing
+<b>Note: </b>.orig file is the original copy of the file saved by git.
+
+---------------------------
+### Rebasing
+For example, we do some changings on branch A and another changes on branch B, when we want to merge B to A, it simply write all the commits from B as one commit to A. With rebasing git rewrites all the commits from B to A. <br>
+`git rebase <target_branch>`
+ 
 
