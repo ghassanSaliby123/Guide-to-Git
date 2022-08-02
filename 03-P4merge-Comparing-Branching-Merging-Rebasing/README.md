@@ -6,7 +6,7 @@
 
 --------------------
 ### Install and configure p4merge tool
-After configuring the p4merge tool we can use `git difftool` instead if `git diff`
+After configuring the p4merge tool (as explaineed in the pdf) we can use `git difftool` instead if `git diff`
 ### Comparing the working directory with the staginng area
 `git diff`
 ### Comparing the working directory with the latest commit
