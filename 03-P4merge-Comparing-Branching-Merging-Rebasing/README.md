@@ -33,6 +33,6 @@ Get the commit ID through `git log` then `git diff <ID1> <ID2>`
 Merge will default do a fast forward merge which literally move your main branch's tip forward to the end of your feature branch. This keeps all commits created in your feature branch sequential while integrating it neatly back into your main branch. <br>
 If we make a change on a branch then switch to main branch and do another changes before doing the merge. The merge here will be called an automatic merge.
 Sometimes it leads to conflicts when we change the same file on different branches. Here we can use the mergetool to resolve the conflict. 
-`git merge <the_source_branch>` <br>
-<b>Note: </b>.orig file is the original copy of the file saved by git 
+`git merge <the_source_branch>` <br> 
+<b>Note: </b>.orig file is the original copy of the file saved by git Rebasing
 
