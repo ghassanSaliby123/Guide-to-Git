@@ -29,6 +29,7 @@ Get the commit ID through `git log` then `git diff <ID1> <ID2>`
 - Change the name of the branch `git branch -m <current_name> <new_name>`. The -m stands for move.
 - Delete a branch `git branch -d <branch_name>`. The -d for delete , should not be on the branch while we delete it
 - Show the difference between 2 branches `git diff <branch1> <branch2>`. We can also use the difftool
+![01 Branch-2 kopiera](https://user-images.githubusercontent.com/93892538/182479420-1badf6b5-2333-4240-8f0d-36d32966fcee.png)
 ### Merge 2 branches
 Merge will default do a fast forward merge which literally move your main branch's tip forward to the end of your feature branch. This keeps all commits created in your feature branch sequential while integrating it neatly back into your main branch. <br>
 If we make a change on a branch then switch to main branch and do another changes before doing the merge. The merge here will be called an automatic merge.
