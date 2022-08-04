@@ -1,4 +1,4 @@
-## This file conaints the vasic commands for: 
+## This file conaints the basic commands for: 
 - Creating a new repository
 - Initialize a new repository from an existing one
 - Cloning a remote repository
