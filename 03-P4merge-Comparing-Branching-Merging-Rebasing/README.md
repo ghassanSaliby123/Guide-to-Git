@@ -4,7 +4,7 @@
 - Branching and merging
 - Rebasing
 
---------------------
+-----------------------
 
 ### Install and configure p4merge tool
 After configuring the p4merge tool (as explaineed in the pdf) we can use `git difftool` instead if `git diff`
