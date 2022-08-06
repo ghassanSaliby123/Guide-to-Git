@@ -1,4 +1,4 @@
-###This section covers the following:
+## This section covers the following:
 - Lightweight tags
 - Annotated tags
 - Comparing tags
